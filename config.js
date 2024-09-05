@@ -6,8 +6,8 @@ function convertToBool(text, fault = 'true') {
 
 
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || 'youre session id',
-POSTGRESQL_URL: process.env.POSTGRESQL_URL || 'youre POSTGRESQL url',
+SESSION_ID: process.env.SESSION_ID || 'YHt2wZST#Im2QCffcxJo6x7sIJlB4vsUAiAuWcan5bghcrVyp3Kk',
+POSTGRESQL_URL: process.env.POSTGRESQL_URL || 'postgres://koyeb-adm:7yofQtsra6hA@ep-curly-tooth-a2qml7tf.eu-central-1.pg.koyeb.app/koyebdb',
 LANG: process.env.BOT_LANG || 'EN' ,
 PREFIX: process.env.PREFIX || '.',
 ANTI_BAD: process.env.ANTI_BAD || 'false',
